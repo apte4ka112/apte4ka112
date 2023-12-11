@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexey Krainov</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">Frontend developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apte4ka112&label=Profile%20views&color=0e75b6&style=flat" alt="apte4ka112" /> </p>
 
