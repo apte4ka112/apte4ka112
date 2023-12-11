@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [t.me](https://t.me/apte4ka_dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/apte4ka112](https://github.com/apte4ka112)
-
 - 💬 Ask me about **vue, nuxt, typescript**
 
 - 📫 How to reach me **https://t.me/apte4ka112**
