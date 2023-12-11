@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apte4ka112&label=Profile%20views&color=0e75b6&style=flat" alt="apte4ka112" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apte4ka112" alt="apte4ka112" /></a> </p>
-
 - 🌱 I’m currently learning **react, node.js, memcached**
 
-- 👯 I’m looking to collaborate on [...](https://t.me/apte4ka_dev)
+- 👯 I’m looking to collaborate on [t.me](https://t.me/apte4ka_dev)
 
 - 👨‍💻 All of my projects are available at [https://github.com/apte4ka112](https://github.com/apte4ka112)
 
-- 💬 Ask me about **vue, nuxt,typescript**
+- 💬 Ask me about **vue, nuxt, typescript**
 
 - 📫 How to reach me **https://t.me/apte4ka112**
 
